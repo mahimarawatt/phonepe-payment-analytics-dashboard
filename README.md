@@ -172,6 +172,4 @@ phonepe-transaction-analysis-powerbi
 
 # Author
 
-Mahima
-
-This project is part of my **Data Analytics portfolio** demonstrating dashboard design, exploratory analysis, and business insight generation using Power BI.
+Mahima Rawat
